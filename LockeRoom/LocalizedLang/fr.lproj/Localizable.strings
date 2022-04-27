@@ -1,0 +1,103 @@
+/* 
+  Localizable.strings
+  Lockeroom
+
+  Created by Zafar Najmi on 25/04/2020.
+  Copyright © 2020 Zafar Najmi. All rights reserved.
+*/
+"Password" = "Mot de passe";
+"ID" = "ID";
+"Login" = "Connexion";
+"Don't have an account ?" = "N'ont pas de compte?";
+"Forgot Password?" = "Oublié votre mot de passe ?";
+"Sign Up" = "S'inscrire";
+"Alert" = "Alerter";
+"Please Enter The Email" = "Veuillez saisir l'adresse électronique";
+"Please Enter The Password" = "Veuillez entrer le mot de passe";
+"Please Enter  Valid Email" = "Veuillez entrer une adresse électronique valide";
+
+//Signup
+"Please Enter The Confirem Password" = "Veuillez entrer le mot de passe Confirem";
+"Please Enter The  City Name" = "Veuillez entrer le nom de la ville";
+"Please Enter The Country Name" = "Veuillez saisir le nom du pays";
+"Sign Up" = "S'inscrire";
+"Already have an account ? " = "Vous avez déjà un compte ?";
+
+"Confirm Password" = "Confirmez votre mot de passe";
+"Club Name " = "Nom du club ";
+"Country" = "Pays";
+"City" = "Ville";
+"Email" = "Courriel";
+"Password" = "Mot de passe";
+//ResetPass
+"Please Enter Code " = "Veuillez entrer un code ";
+
+"Please Enter Confirm Password " = "Veuillez entrer votre mot de passe ";
+"Please Enter  Password " = "Veuillez entrer votre mot de passe";
+"Confirm Password" = "Confirmer le mot de passe";
+"New Password " = "Nouveau mot de passe ";
+"Verification Code" =  "Le code de vérification";
+"Reset Password" = "réinitialiser le mot de passe";
+
+
+//Home
+"Tag" = "Étiquette";
+"Card Has been Scanned"  ="La carte a été numérisée";
+"OK" = "Oui";
+"Document Additional Number :" = "Numéro complémentaire du document :";
+"Document Number :" = "Numéro du document :";
+"Driver Restrictions :" = "Restrictions du conducteur:";
+"Driver Endorsments :" = "Avenants du conducteur:";
+"Driver Vehicle Class :" = "Classe de véhicule du conducteur:";
+"First Name :" = "Le prénom :";
+"Last Name :" = "Nom de famille :";
+"Full Name :" = "Nom et prénom :";
+"Card Number :" = "Numéro de carte :";
+"Dacument Code :" = "Code d'instrument";
+"Scandry ID:" = "Identifiant Scandry:";
+"Primary ID:" = "ID principal:";
+"Cancel" =  "Annuler";
+"Confirm" = "Confirmer";
+//TodayScans
+"Sorry there is no data available" = "Désolé, il n'y a pas de données disponibles";
+"Try Again!" = "Essayez à nouveau !";
+"ID's Scanned Today" = "Identités scannées aujourd'hui";
+"ID's Left Today" = "ID restant aujourd’hui";
+
+
+//Setting
+"Are you sure you want to Logout?" = "Êtes-vous sûr de vouloir vous déconnecter ?";
+"Are you sure you want to Generate  a Month Invoice  and Sent to Mail" = "Êtes-vous sûr de vouloir générer une facture mensuelle et l'envoyer par courrier";
+
+"Number of Physical Tags Available" = "Nombre d'étiquettes physiques disponibles";
+"Payment" = "Paiement";
+"Language" = "Langues";
+"Mail Monthly Invoice" = "Facture mensuelle du courrier";
+"Contact Us" = "Nous contacter";
+"Terms & Conditions" = "Conditions d'utilisation";
+"Logout" = "Déconnexion";
+
+
+//history
+"Day" = "Jour";
+"Total Scanned: " = "Total scannés : ";
+"Unpayed Scanned: " = "Non payé Numérisé : ";
+"Total Due Amount : " = "Montant total dû ";
+"Week" = "Semaine";
+"Month" = "Mois";
+"Scans" = "Scans";
+"Total Scans" = "Total des scanners";
+//limit
+"Please Enter Min Limit of The Tags" = "Veuillez entrer la limite minimale des balises";
+"Please Enter The Max Limit Of The Tags" = "Veuillez indiquer la limite maximale des étiquettes";
+"Save Tags" = "Sauvegarder les balises";
+"Min" = "Minimum";
+
+"Limit" = "Maximum";
+//terms
+"Terms & Conditions" = "Conditions générales";
+"If you have any question or queries contact us at " = "Si vous avez des questions ou des requêtes, veuillez nous contacter à ";
+"Payment" = "Paiements";
+"Check-In" =  "Enregistrement";
+"Check-Out" = "Check-out";
+"ALL" = "All";

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15510"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="WeekCell" rowHeight="96" id="aaU-y8-31b" customClass="WeekCell" customModule="Lockeroom" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="337" height="96"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="aaU-y8-31b" id="z0R-M6-rIg">
+                <rect key="frame" x="0.0" y="0.0" width="337" height="96"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="uAq-CO-jkI">
+                        <rect key="frame" x="20" y="9" width="297" height="76"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="20/01/202 - 03/04/2020" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7f9-Eq-fvV">
+                                <rect key="frame" x="12" y="5" width="193" height="23.5"/>
+                                <fontDescription key="fontDescription" name="Avenir-Heavy" family="Avenir" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Scans :" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dw6-SB-O0I">
+                                <rect key="frame" x="12" y="40.5" width="45" height="19.5"/>
+                                <fontDescription key="fontDescription" name="Avenir-Heavy" family="Avenir" pointSize="14"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="320" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0Ky-WZ-BXF">
+                                <rect key="frame" x="77" y="40.5" width="25" height="19.5"/>
+                                <fontDescription key="fontDescription" name="Avenir-Heavy" family="Avenir" pointSize="14"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="$32" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wkd-lK-F8T">
+                                <rect key="frame" x="254.5" y="22.5" width="30.5" height="23.5"/>
+                                <fontDescription key="fontDescription" name="Avenir-Heavy" family="Avenir" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="dw6-SB-O0I" firstAttribute="leading" secondItem="uAq-CO-jkI" secondAttribute="leading" constant="12" id="3U6-Ed-wvy"/>
+                            <constraint firstItem="7f9-Eq-fvV" firstAttribute="leading" secondItem="uAq-CO-jkI" secondAttribute="leading" constant="12" id="5o9-im-6Cw"/>
+                            <constraint firstAttribute="trailing" secondItem="wkd-lK-F8T" secondAttribute="trailing" constant="12" id="Ub9-Rm-iAF"/>
+                            <constraint firstAttribute="height" constant="76" id="aFM-wC-suN"/>
+                            <constraint firstItem="wkd-lK-F8T" firstAttribute="centerY" secondItem="uAq-CO-jkI" secondAttribute="centerY" constant="-3.75" id="b6Z-ku-6NZ"/>
+                            <constraint firstItem="0Ky-WZ-BXF" firstAttribute="centerY" secondItem="dw6-SB-O0I" secondAttribute="centerY" id="hpG-Lt-zLp"/>
+                            <constraint firstItem="7f9-Eq-fvV" firstAttribute="top" secondItem="uAq-CO-jkI" secondAttribute="top" constant="5" id="sTt-nT-j1f"/>
+                            <constraint firstItem="0Ky-WZ-BXF" firstAttribute="leading" secondItem="dw6-SB-O0I" secondAttribute="trailing" constant="20" id="txj-kz-qW5"/>
+                            <constraint firstItem="dw6-SB-O0I" firstAttribute="top" secondItem="7f9-Eq-fvV" secondAttribute="bottom" constant="12" id="vJC-iX-Ymy"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="uAq-CO-jkI" secondAttribute="trailing" constant="20" id="bXE-sR-STo"/>
+                    <constraint firstItem="uAq-CO-jkI" firstAttribute="top" secondItem="z0R-M6-rIg" secondAttribute="top" constant="9" id="fB2-Mx-skm"/>
+                    <constraint firstAttribute="bottom" secondItem="uAq-CO-jkI" secondAttribute="bottom" constant="11" id="mtf-mo-I7E"/>
+                    <constraint firstItem="uAq-CO-jkI" firstAttribute="leading" secondItem="z0R-M6-rIg" secondAttribute="leading" constant="20" id="udG-Vg-06i"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="1h6-8Y-7W7"/>
+            <connections>
+                <outlet property="lblamount" destination="wkd-lK-F8T" id="m5D-bk-e4w"/>
+                <outlet property="lbldate" destination="7f9-Eq-fvV" id="g6u-Py-V7y"/>
+                <outlet property="lblscans" destination="0Ky-WZ-BXF" id="UoJ-1v-BdA"/>
+                <outlet property="lblscnnas" destination="dw6-SB-O0I" id="SdI-eg-sdz"/>
+                <outlet property="mainView" destination="uAq-CO-jkI" id="cmy-Gd-hYb"/>
+            </connections>
+            <point key="canvasLocation" x="138" y="4"/>
+        </tableViewCell>
+    </objects>
+</document>

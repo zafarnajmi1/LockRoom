@@ -1,0 +1,99 @@
+/* 
+  Localizable.strings
+  Lockeroom
+
+  Created by Zafar Najmi on 25/04/2020.
+  Copyright © 2020 Zafar Najmi. All rights reserved.
+*/
+"Password" = "Password";
+"ID" = "ID";
+"Login" = "Login";
+"Don't have an account ?" = "Don't have an account ?";
+"Forgot Password?" = "Forgot Password?";
+"Sign Up" = "Sign Up";
+"Alert" = "Alert";
+"Please Enter The Email" = "Please Enter The Email";
+"Please Enter The Password" = "Please Enter The Password";
+"Please Enter  Valid Email" = "Please Enter  Valid Email";
+
+//Signup
+"Please Enter The Confirem Password" = "Please Enter The Confirem Password";
+"Please Enter The  City Name" = "Please Enter The  City Name";
+"Please Enter The Country Name" = "Please Enter The Country Name";
+"Sign Up" = "Sign Up";
+"Already have an account ? " = "Already have an account ?";
+
+"Confirm Password" = "Confirm Password";
+"Club Name " = "Club Name ";
+"Country" = "Country";
+"City" = "City";
+"Email" = "Email";
+"Password" = "Password";
+//ResetPass
+"Please Enter Code " = "Please Enter Code ";
+
+"Please Enter Confirm Password " = "Please Enter Confirm Password ";
+"Please Enter  Password " = "Please Enter  Password ";
+"Confirm Password" = "Confirm Password";
+"New Password " = "New Password ";
+"Verification Code" =  "Verification Code";
+"Reset Password" = "Reset Password";
+
+
+//Home
+"Tag" = "Tag";
+"Card Has been Scanned"  ="Card Has been Scanned";
+"OK" = "OK";
+"Document Additional Number :" = "Document Additional Number :";
+"Document Number :" = "Document Number :";
+"Driver Restrictions :" = "Driver Restrictions :";
+"Driver Endorsments :" = "Driver Endorsments :";
+"Driver Vehicle Class :" = "Driver Vehicle Class :";
+"First Name :" = "First Name :";
+"Last Name :" = "Last Name :";
+"Full Name :" = "Full Name :";
+"Card Number :" = "Card Number :";
+"Dacument Code :" = "Dacument Code :";
+"Scandry ID:" = "Scandry ID:";
+"Primary ID:" = "Primary ID:";
+"Cancel" =  "Cancel";
+"Confirm" = "Confirm";
+//TodayScans
+"Sorry there is no data available" = "Sorry there is no data available";
+"Try Again!" = "Try Again!";
+"ID's Scanned Today" = "ID's Scanned Today";
+"ID's Letf Today" = "ID's Letf Today";
+
+
+//Setting
+"Are you sure you want to Logout?" = "Are you sure you want to Logout?";
+"Are you sure you want to Generate  a Month Invoice  and Sent to Mail" = "Are you sure you want to Generate  a Month Invoice  and Sent to Mail";
+
+"Number of Physical Tags Available" = "Number of Physical Tags Available";
+"Payment" = "Payment";
+"Language" = "Language";
+"Mail Monthly Invoice" = "Mail Monthly Invoice";
+"Contact Us" = "Contact Us";
+"Terms & Conditions" = "Terms & Conditions";
+"Logout" = "Logout";
+
+
+//history
+"Day" = "Day";
+"Total Scanned: " = "Total Scanned: ";
+"Unpayed Scanned: " = "Unpayed Scanned: ";
+"Total Due Amount : " = "Total Due Amount : ";
+"Week" = "Week";
+"Month" = "Month";
+"Scans" = "Scans";
+"Total Scans" = "Total Scans";
+//limit
+"Please Enter Min Limit of The Tags" = "Please Enter Min Limit of The Tags";
+"Please Enter The Max Limit Of The Tags" = "Please Enter The Max Limit Of The Tags";
+"Save Tags" = "Save Tags";
+"Min" = "Min";
+"Limit" = "Limit";
+//terms
+"Terms & Conditions" = "Terms & Conditions";
+"If you have any question or queries contact us at " = "If you have any question or queries contact us at ";
+"Payment" = "Payment";
