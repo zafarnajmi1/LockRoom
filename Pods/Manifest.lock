@@ -1,0 +1,56 @@
+PODS:
+  - Alamofire (4.9.1)
+  - DZNEmptyDataSet (1.8.1)
+  - IQKeyboardManagerSwift (6.5.5)
+  - KRActivityIndicatorView (3.0.5)
+  - KRProgressHUD (3.4.5):
+    - KRActivityIndicatorView (= 3.0.5)
+  - PPBlinkID (5.3.0)
+  - SDWebImage (5.6.1):
+    - SDWebImage/Core (= 5.6.1)
+  - SDWebImage/Core (5.6.1)
+  - Stripe (19.0.1)
+  - SwiftMessages (7.0.1):
+    - SwiftMessages/App (= 7.0.1)
+  - SwiftMessages/App (7.0.1)
+  - XLPagerTabStrip (9.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - DZNEmptyDataSet
+  - IQKeyboardManagerSwift
+  - KRProgressHUD
+  - PPBlinkID
+  - SDWebImage
+  - Stripe
+  - SwiftMessages
+  - XLPagerTabStrip
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DZNEmptyDataSet
+    - IQKeyboardManagerSwift
+    - KRActivityIndicatorView
+    - KRProgressHUD
+    - PPBlinkID
+    - SDWebImage
+    - Stripe
+    - SwiftMessages
+    - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  KRActivityIndicatorView: 912bc0413d98340f384b12a4e1e6aa8f42fb377d
+  KRProgressHUD: df4cdc3a1baf708d4276a089ee34d133fa9a6f3e
+  PPBlinkID: 0cf67faca4becbde9ada3fd082739708c236f157
+  SDWebImage: 7edb9c3ea661e77a66661f7f044de8c1b55d1120
+  Stripe: 03313f9520a0786e2c00d9a7a2672c11e08821af
+  SwiftMessages: b577dc7043be8b299857ab35bb663dbff6483bd0
+  XLPagerTabStrip: 61c57fd61f611ee5f01ff1495ad6fbee8bf496c5
+
+PODFILE CHECKSUM: 31b0e4ba0b1a8b0f7b099d0e8eedc7e7a88a0524
+
+COCOAPODS: 1.9.1
