@@ -1,0 +1,219 @@
+
+/* Class = "UILabel"; text = "Unpayed Scanned: "; ObjectID = "0W9-wN-q3a"; */
+"0W9-wN-q3a.text" = "Unpayed Scanned: ";
+
+/* Class = "UIButton"; normalTitle = "Save Tags"; ObjectID = "0qg-fP-GFw"; */
+"0qg-fP-GFw.normalTitle" = "Save Tags";
+
+/* Class = "UILabel"; text = "Pay Of The Month :"; ObjectID = "1yP-zg-UVP"; */
+"1yP-zg-UVP.text" = "Pay Of The Month :";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "31P-H9-COk"; */
+"31P-H9-COk.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "3Wo-U8-T6a"; */
+"3Wo-U8-T6a.text" = "---";
+
+/* Class = "UILabel"; text = "Total Due Amount : "; ObjectID = "45t-YD-7wh"; */
+"45t-YD-7wh.text" = "Total Due Amount : ";
+
+/* Class = "UILabel"; text = "Total Scanned: "; ObjectID = "48j-GV-Xv0"; */
+"48j-GV-Xv0.text" = "Total Scanned: ";
+
+/* Class = "UILabel"; text = "Total Payable  Amount :"; ObjectID = "4CA-S1-Or2"; */
+"4CA-S1-Or2.text" = "Total Payable  Amount :";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "5ih-x4-ORz"; */
+"5ih-x4-ORz.normalTitle" = "Confirm";
+
+/* Class = "UILabel"; text = "ID's Scanned Today"; ObjectID = "6Si-UY-fWq"; */
+"6Si-UY-fWq.text" = "ID's Scanned Today";
+
+/* Class = "UILabel"; text = "Reset Password"; ObjectID = "6pJ-Qy-fdc"; */
+"6pJ-Qy-fdc.text" = "Reset Password";
+
+/* Class = "UILabel"; text = "Lockeroom"; ObjectID = "7YA-MJ-OsQ"; */
+"7YA-MJ-OsQ.text" = "Lockeroom";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "7fJ-gU-WXW"; */
+"7fJ-gU-WXW.text" = "---";
+
+/* Class = "UILabel"; text = "Total Scanned: "; ObjectID = "8H2-e3-YvN"; */
+"8H2-e3-YvN.text" = "Total Scanned: ";
+
+/* Class = "UITextField"; placeholder = "Verification Code"; ObjectID = "Age-NG-51s"; */
+"Age-NG-51s.placeholder" = "Verification Code";
+
+/* Class = "UILabel"; text = "ID's Letf Today"; ObjectID = "CEh-9U-T2T"; */
+"CEh-9U-T2T.text" = "ID's Letf Today";
+
+/* Class = "UILabel"; text = "Lockeroom"; ObjectID = "CdO-l3-nDE"; */
+"CdO-l3-nDE.text" = "Lockeroom";
+
+/* Class = "UITextField"; placeholder = "Club Name "; ObjectID = "DiI-Tl-GSt"; */
+"DiI-Tl-GSt.placeholder" = "Club Name ";
+
+/* Class = "UILabel"; text = "Total Scanned: "; ObjectID = "FV1-uX-Ivw"; */
+"FV1-uX-Ivw.text" = "Total Scanned: ";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "GX0-Eu-oSk"; */
+"GX0-Eu-oSk.placeholder" = "Confirm Password";
+
+/* Class = "UILabel"; text = "Check Out"; ObjectID = "Hjg-Ku-til"; */
+"Hjg-Ku-til.text" = "Check Out";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "HzA-hL-oFb"; */
+"HzA-hL-oFb.text" = "---";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "Je8-1z-5pI"; */
+"Je8-1z-5pI.text" = "---";
+
+/* Class = "UITextField"; placeholder = "Email "; ObjectID = "KzS-f0-7pF"; */
+"KzS-f0-7pF.placeholder" = "Email ";
+
+/* Class = "UILabel"; text = "Limit"; ObjectID = "LKQ-Iq-KCn"; */
+"LKQ-Iq-KCn.text" = "Limit";
+
+/* Class = "UITextField"; placeholder = "ID"; ObjectID = "Ls8-ca-1LO"; */
+"Ls8-ca-1LO.placeholder" = "ID";
+
+/* Class = "UITextField"; placeholder = "Password "; ObjectID = "MG8-WU-os8"; */
+"MG8-WU-os8.placeholder" = "Password ";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "MWE-EN-gfv"; */
+"MWE-EN-gfv.text" = "---";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "MvE-yg-dV4"; */
+"MvE-yg-dV4.normalTitle" = "Sign Up";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "NvR-TD-gRQ"; */
+"NvR-TD-gRQ.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Total Due Amount : "; ObjectID = "Pub-mO-J2H"; */
+"Pub-mO-J2H.text" = "Total Due Amount : ";
+
+/* Class = "UILabel"; text = "Unpayed Scanned: "; ObjectID = "R57-MT-jRy"; */
+"R57-MT-jRy.text" = "Unpayed Scanned: ";
+
+/* Class = "UILabel"; text = "Don't have an account ?"; ObjectID = "VWc-yi-fKV"; */
+"VWc-yi-fKV.text" = "Don't have an account ?";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "Vx5-cf-PfV"; */
+"Vx5-cf-PfV.text" = "---";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "Wup-p1-mgg"; */
+"Wup-p1-mgg.text" = "Sign Up";
+
+/* Class = "UILabel"; text = "9"; ObjectID = "XJZ-nm-rYR"; */
+"XJZ-nm-rYR.text" = "9";
+
+/* Class = "UILabel"; text = "If you have any question or queries contact us at "; ObjectID = "Xua-iF-tZy"; */
+"Xua-iF-tZy.text" = "If you have any question or queries contact us at ";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "YVF-je-L1E"; */
+"YVF-je-L1E.text" = "---";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "Ycn-DH-jbg"; */
+"Ycn-DH-jbg.text" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "YdC-45-rDg"; */
+"YdC-45-rDg.normalTitle" = "Forgot Password?";
+
+/* Class = "UILabel"; text = "Lockeroom"; ObjectID = "ZOE-LZ-uWN"; */
+"ZOE-LZ-uWN.text" = "Lockeroom";
+
+/* Class = "UILabel"; text = "Total Scans :"; ObjectID = "ZxY-8B-8XV"; */
+"ZxY-8B-8XV.text" = "Total Scans :";
+
+/* Class = "UITextField"; placeholder = "100"; ObjectID = "ahW-5W-dZz"; */
+"ahW-5W-dZz.placeholder" = "100";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "bGT-5l-QUY"; */
+"bGT-5l-QUY.text" = "---";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "bIc-rP-fnI"; */
+"bIc-rP-fnI.text" = "---";
+
+/* Class = "UILabel"; text = "Lockeroom"; ObjectID = "bO9-vv-mk1"; */
+"bO9-vv-mk1.text" = "Lockeroom";
+
+/* Class = "UILabel"; text = "lockeroom.app@gmail.com"; ObjectID = "bTB-BX-gl1"; */
+"bTB-BX-gl1.text" = "lockeroom.app@gmail.com";
+
+/* Class = "UITextField"; placeholder = "Country "; ObjectID = "bcq-aS-MDz"; */
+"bcq-aS-MDz.placeholder" = "Country ";
+
+/* Class = "UITextField"; placeholder = "Confirm Password "; ObjectID = "bnn-zV-7jS"; */
+"bnn-zV-7jS.placeholder" = "Confirm Password ";
+
+/* Class = "UILabel"; text = "Min"; ObjectID = "c7W-6Z-YHs"; */
+"c7W-6Z-YHs.text" = "Min";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "cDp-6c-cmB"; */
+"cDp-6c-cmB.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "d2i-ZW-mOA"; */
+"d2i-ZW-mOA.text" = "---";
+
+/* Class = "UILabel"; text = "Terms & Conditions"; ObjectID = "fQ6-Bn-nNK"; */
+"fQ6-Bn-nNK.text" = "Terms & Conditions";
+
+/* Class = "UITextField"; placeholder = "New Password "; ObjectID = "fkU-ia-tLh"; */
+"fkU-ia-tLh.placeholder" = "New Password ";
+
+/* Class = "UILabel"; text = "Check In"; ObjectID = "gyV-RZ-k4g"; */
+"gyV-RZ-k4g.text" = "Check In";
+
+/* Class = "UILabel"; text = "Unpayed Scanned: "; ObjectID = "hRe-zx-wLE"; */
+"hRe-zx-wLE.text" = "Unpayed Scanned: ";
+
+/* Class = "UILabel"; text = "Total Scanned: "; ObjectID = "hm8-nT-EaF"; */
+"hm8-nT-EaF.text" = "Total Scanned: ";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "ht5-pk-KDd"; */
+"ht5-pk-KDd.text" = "---";
+
+/* Class = "UITextField"; placeholder = "Password "; ObjectID = "jsl-KM-Nyz"; */
+"jsl-KM-Nyz.placeholder" = "Password ";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "kp7-hk-cWZ"; */
+"kp7-hk-cWZ.text" = "5";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "la2-pg-6eV"; */
+"la2-pg-6eV.text" = "---";
+
+/* Class = "UILabel"; text = "Unpayed Scanned: "; ObjectID = "ltg-Ih-jn9"; */
+"ltg-Ih-jn9.text" = "Unpayed Scanned: ";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "luz-GB-bcV"; */
+"luz-GB-bcV.text" = "---";
+
+/* Class = "UITextField"; placeholder = "City "; ObjectID = "mT7-KC-uTd"; */
+"mT7-KC-uTd.placeholder" = "City ";
+
+/* Class = "UILabel"; text = "Don't have an account ?"; ObjectID = "mTX-vu-cw1"; */
+"mTX-vu-cw1.text" = "Don't have an account ?";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "n2g-w3-pjU"; */
+"n2g-w3-pjU.normalTitle" = "Cancel";
+
+/* Class = "UITextField"; placeholder = "1"; ObjectID = "nX3-Ww-YPa"; */
+"nX3-Ww-YPa.placeholder" = "1";
+
+/* Class = "UILabel"; text = "Submit"; ObjectID = "oR3-7K-8cj"; */
+"oR3-7K-8cj.text" = "Submit";
+
+/* Class = "UILabel"; text = "Lockeroom"; ObjectID = "ry1-LF-tvO"; */
+"ry1-LF-tvO.text" = "Lockeroom";
+
+/* Class = "UIButton"; normalTitle = "Make Payment"; ObjectID = "svR-fA-a4y"; */
+"svR-fA-a4y.normalTitle" = "Make Payment";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "v0x-em-87d"; */
+"v0x-em-87d.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Total Due Amount : "; ObjectID = "yGF-3K-rpz"; */
+"yGF-3K-rpz.text" = "Total Due Amount : ";
+
+/* Class = "UILabel"; text = "Total Due Amount : "; ObjectID = "zex-q8-gTC"; */
+"zex-q8-gTC.text" = "Total Due Amount : ";

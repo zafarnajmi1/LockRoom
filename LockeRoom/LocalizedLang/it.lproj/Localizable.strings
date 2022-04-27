@@ -1,0 +1,103 @@
+/* 
+  Localizable.strings
+  Lockeroom
+
+  Created by Zafar Najmi on 25/04/2020.
+  Copyright © 2020 Zafar Najmi. All rights reserved.
+*/
+
+"Password" = "Parola d'ordine";
+"ID" = "IDENTIFICAZIONE";
+"Login" = "Accesso";
+"Don't have an account ?" = "Non avete un conto?";
+"Forgot Password?" = "Dimenticato la password?";
+"Sign Up" = "Iscriviti";
+"Alert" = "Allarme";
+"Please Enter The Email" = "Inserire l'e-mail";
+"Please Enter The Password" = "Inserisci la password";
+"Please Enter  Valid Email" = "Inserisci un'e-mail valida";
+
+//Signup
+"Please Enter The Confirem Password" = "Inserisci la password di Confirem";
+"Please Enter The  City Name" = "Inserisci il nome della città";
+"Please Enter The Country Name" = "Inserire il nome del paese";
+"Sign Up" = "Iscriviti";
+"Already have an account ? " = "Hai già un conto?";
+
+"Confirm Password" = "Conferma la password";
+"Club Name " = "Nome del club ";
+"Country" = "Paese";
+"City" = "Città";
+"Email" = "Invia un'e-mail a";
+"Password" = "Parola d'ordine";
+//ResetPass
+"Please Enter Code " = "Inserisci il codice ";
+
+"Please Enter Confirm Password " = "Inserire la password di conferma";
+"Please Enter  Password " = "Inserisci la password ";
+"Confirm Password" = "Conferma la password";
+"New Password " = "Nuova password ";
+"Verification Code" =  "Codice di verifica";
+"Reset Password" = "Reimposta la password";
+
+
+//Home
+"Tag" = "Tag";
+"Card Has been Scanned"  ="La scheda è stata scansionata";
+"OK" = "OK";
+"Document Additional Number :" = "Documento Numero aggiuntivo :";
+"Document Number :" = "Numero del documento :";
+"Driver Restrictions :" = "Restrizioni per il conducente :";
+"Driver Endorsments :" = "Caratteristiche dell'autista :";
+"Driver Vehicle Class :" = "Classe del veicolo del conducente :";
+"First Name :" = "Nome di battesimo :";
+"Last Name :" = "Cognome :";
+"Full Name :" = "Nome e cognome :";
+"Card Number :" = "Numero di carta :";
+"Dacument Code :" = "Codice del documento :";
+"Scandry ID:" = "Scandry ID:";
+"Primary ID:" = "Primary ID:";
+"Cancel" =  "Annulla";
+"Confirm" = "Confermare";
+//TodayScans
+"Sorry there is no data available" = "Spiacenti, non ci sono dati disponibili";
+"Try Again!" = "Riprovaci!";
+"ID's Scanned Today" = "L'ID viene scansionato oggi";
+"ID's Letf Today" = "ID's Letf Oggi";
+
+
+//Setting
+"Are you sure you want to Logout?" = "Sei sicuro di voler fare il logout?";
+"Are you sure you want to Generate  a Month Invoice  and Sent to Mail" = "Sei sicuro di voler generare una fattura mensile e inviarla per posta";
+
+"Number of Physical Tags Available" = "Numero di tag fisici disponibili";
+"Payment" = "Pagamento";
+"Language" = "Lingua";
+"Mail Monthly Invoice" = "Fattura mensile per posta";
+"Contact Us" = "Contattaci";
+"Terms & Conditions" = "Termini e condizioni";
+"Logout" = "Logout";
+
+
+//history
+"Day" = "Day";
+"Total Scanned: " = "Scansione totale: ";
+"Unpayed Scanned: " = "Scansione non pagata: ";
+"Total Due Amount : " = "Totale Importo dovuto : ";
+"Week" = "Settimana";
+"Month" = "Mese";
+"Scans" = "Scansioni";
+"Total Scans" = "Totale scansioni";
+//limit
+"Please Enter Min Limit of The Tags" = "Inserire il limite minimo dei tag";
+"Please Enter The Max Limit Of The Tags" = "Inserire il limite massimo dei tag";
+"Save Tags" = "Salva i tag";
+"Min" = "Min";
+"Limit" = "Limiti";
+//terms
+"Terms & Conditions" = "Termini e condizioni";
+"If you have any question or queries contact us at " = "Se avete domande o richieste, contattateci a ";
+"Payment" = "Pagamento";
+"Check-In" =  "Check-In";
+"Check-Out" = "Check-Out";
+
